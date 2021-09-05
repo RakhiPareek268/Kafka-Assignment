@@ -1,0 +1,3 @@
+{"id":1,"name":"Rakhi Pareek","course":"BTech."}
+{"id":1,"name":"Rakhi Pareek","course":"BTech."}
+{"id":1,"name":"Rakhi Pareek","course":"BTech."}
